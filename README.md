@@ -1,7 +1,7 @@
 # Yeslab-task
-Yeslab-task
-一、环境信息
-Ubuntu 版本：20.04
+Yeslab-task\n
+一、环境信息\n
+Ubuntu 版本：20.04\n
 ROS 版本：Noetic
 虚拟机软件：VirtualBox 7.2.18
 二、遇到的问题
